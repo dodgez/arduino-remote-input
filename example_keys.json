@@ -1,0 +1,26 @@
+{
+    "0": {
+        "type": "keyDown",
+        "char": "Q"
+    },
+    "4": {
+        "type": "keyUp",
+        "char": "Q"
+    },
+    "1": {
+        "type": "keyDown",
+        "char": "space"
+    },
+    "5": {
+        "type": "keyUp",
+        "char": "space"
+    },
+    "2": {
+        "type": "keyDown",
+        "char": "E"
+    },
+    "6": {
+        "type": "keyUp",
+        "char": "E"
+    }
+}
